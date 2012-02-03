@@ -1,5 +1,4 @@
 # This is the default format. 
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 auto: true
 pygments: true
@@ -8,14 +7,54 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://username.github.com # or your custom domain name
-title : Jekyll Boostrap
+production_url : http://nwcloud.github.com # or your custom domain name
+title : NW Cloud User Groups
 
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedbuder : feedname
+# author :
+#   name : Name Lastname
+#   email : blah@email.test
+#   github : username
+#   twitter : username
+#   feedbuder : feedname
+
+authors:
+  jhulten:
+    name: Jeffrey Hulten
+    email: jeffh@nwcloud.org
+    github: jhulten
+    twitter: jhulten
+    gravatar: 06d4928edbddfc5e0dee0c39f3e7b719
+  adron:
+    name: Adron Hall
+    email: adronhall@nwcloud.org
+    github: adron
+    twitter: adron
+    gravatar: 1
+  shy:
+    name: Shy Cohen
+    email: shy@nwcloud.org
+    github: nil
+    twitter: nil
+    gravatar: 1
+  jon:
+    name: Jon Madamba
+    email: jon@nwcloud.org
+    github: nil
+    twitter: nil
+    gravatar: 1
+  krish:
+    name: Krish Subramanian
+    email: krish@nwcloud.org
+    github: nil
+    twitter: nil
+    gravatar: 1
+  shalom:
+    name: Shalom Rubdi
+    email: srubdi@stratusg.com
+    github: nil
+    twitter: nil
+    gravatar: 1
 
 exclude: .rbenv-version
+
+server_port: 4001
