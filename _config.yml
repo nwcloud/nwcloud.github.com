@@ -18,6 +18,12 @@ title : NW Cloud User Groups
 #   feedbuder : feedname
 
 authors:
+  nwcloud:
+    name: NW Cloud
+    email: info@nwcloud.org
+    github: nwcloud
+    twitter: nwcloud
+    gravatar: 1
   jhulten:
     name: Jeffrey Hulten
     email: jeffh@nwcloud.org
@@ -52,8 +58,22 @@ authors:
     name: Shalom Rubdi
     email: srubdi@stratusg.com
     github: nil
-    twitter: nil
+    twitter: StratusG_Shalom
     gravatar: 1
+
+locations:
+  opscode:
+    name: Opscode HQ
+    address: "1008 Western Ave #600 Seattle, WA 98104"
+    maplink: "http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=1008+Western+Ave,+Seattle,+WA+98104&aq=0&sll=37.0625,-95.677068&sspn=54.357317,114.169922&ie=UTF8&hq=&hnear=1008+Western+Ave,+Seattle,+Washington+98104&ll=47.604658,-122.33757&spn=0.009491,0.026951&z=14&iwloc=A"
+    logo: http://s3.amazonaws.com/opscode-corpsite/assets/121/Opscode_logo_final_original.png
+    url: http://www.opscode.com/
+  amazon:
+    name: Amazon SLU
+    address:
+    maplink:
+    logo:
+    url:
 
 exclude: .rbenv-version
 

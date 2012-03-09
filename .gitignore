@@ -6,3 +6,7 @@ Thumbs.db
 !.gitkeep
 
 .rbenv-version
+
+nwcloud.sublime-project
+
+nwcloud.sublime-workspace

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello from Jekyll-Bootstrap
-header: This is Jekyll-Bootstrap
+title: NW Cloud
+header: NW Cloud: User Groups and Meetups
 ---
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/jekyll-quick-start.html)
