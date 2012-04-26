@@ -8,7 +8,7 @@ var:
   tags_path : /tags.html
 
 production_url : http://nwcloud.github.com # or your custom domain name
-title : NW Cloud User Groups
+title : NW Cloud - Promoting Cloud Computing in the Pacific Northwest
 
 # author :
 #   name : Name Lastname
